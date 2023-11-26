@@ -3,6 +3,6 @@
 i=1
 until [ "$i" -gt 10 ]
 do
-  echo "Best School"
-  i=$(( i + l ))
-done
+  	echo "Best School"
+	i=$(( i + l ))
+donie
